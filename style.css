@@ -1,6 +1,6 @@
 body{
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #f5dlea;
   margin: 0;
   padding: 0;  
 }
@@ -11,9 +11,24 @@ text-align: center;
 }
 
 h1{
-  color: #333333;
+  color: #e170bd;
+  text-transform: uppercase;
 }
 
-p{
-  color: #666666;
+h2{
+  color: #e170bd;
+  font-weight: bold;
+}
+
+.contador{
+  font-size: 36px;
+  color: #e3accf;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.imagem {
+  width: 200px;
+  height: 150px;
+  border: 1px solid #black;
 }
